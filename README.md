@@ -1,0 +1,1 @@
+# KDD_Cup_2020_Adversial_Attack_on_Graph_Data
